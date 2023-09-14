@@ -1,0 +1,7 @@
+Header Information: Company: ABC Inc. | Date: 2023-09-14 | Location: New York
+Transaction Data:
+Transaction ID,Transaction Date,Transaction Time,Transaction Type,Product,Quantity,Unit Price,Total Amount,Payment Method,Payment Status
+1,2023-09-14,15:45:30,Purchase,Widget X,2,$10.00,$20.00,Credit Card,Approved
+2,2023-09-15,09:30:00,Refund,Widget Y,1,$15.00,$15.00,PayPal,Approved
+3,2023-09-16,14:15:00,Purchase,Widget Z,3,$8.00,$24.00,Debit Card,Approved
+Footer Information: Total Transactions: 3 | Total Sales: $59.00
